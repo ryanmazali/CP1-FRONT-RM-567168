@@ -36,6 +36,8 @@ header {
     text-align: center;
 }
 
+
+
 h1 {
     font-size: 40px;
     padding-bottom: 1rem;
@@ -43,6 +45,7 @@ h1 {
 
 h2 {
     font-size: 28px;
+    padding-bottom: .3rem;
 }
 
 .sub-titulo {
@@ -50,7 +53,7 @@ h2 {
 }
 
 .blocos {
-    margin-top: 250px;
+    margin-top: 200px;
     border-top: 1px solid #cdcdcd;
     background-color: #f5f5f5;
     padding: 1rem;
@@ -59,12 +62,13 @@ h2 {
 
 .bloco {
     display: inline-block;
-    width: 23%;
+    width: 25%;
     align-items: center;
     border: 1px solid #cdcdcd;
     padding: 1rem;
-    height: 200px;
-    margin: 1rem;    
+    height: 250px;
+    margin: 1rem;
+    text-align: left;    
 }
 
 footer {
